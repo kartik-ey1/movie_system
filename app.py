@@ -375,7 +375,7 @@ if __name__ == '__main__':
                          font-size:20px ; font-family: 'Trebuchet MS'; color:	#C0C0C0; } 
                          </style> """, unsafe_allow_html=True)
         st.markdown(
-            '<p class="font2" >This is a movie recommendation engine built as a part of Microsoft engage mentorship programme.It recommends movies to the user based on their input of genre or movie. '
+            '<p class="font2" >This is a movie recommendation engine. It recommends movies to the user based on their input of genre or movie. '
             'It also allows the user to read a short description of movie along with their imdb rating upon searching its name.</p>',
             unsafe_allow_html=True)
         st.markdown(
