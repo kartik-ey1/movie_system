@@ -379,7 +379,7 @@ if __name__ == '__main__':
             'It also allows the user to read a short description of movie along with their imdb rating upon searching its name.</p>',
             unsafe_allow_html=True)
         st.markdown(
-            '<p class="font2" >It has been developed by Juhi Vishwakarma, a pre-final year student of IIT Roorkee who majors in Mechanical Engineering. Along with movies and ice cream the developer enjoys doing competitive programming, problem solving and a lit bit of development here and there.</p>',
+            '<p class="font2" >It has been developed by Kartikey Singh, a pre-final year student of IIT Roorkee who majors in Mechanical Engineering. Along with movies and ice cream the developer enjoys doing competitive programming, problem solving and a lit bit of development here and there.</p>',
             unsafe_allow_html=True)
 
     elif choice == "Contribute":
